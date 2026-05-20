@@ -1,9 +1,9 @@
 # Hello World
 
-Welcme to my first repository!
+Welcome to my first repository!
 
 This project is a place to practice GitHub workflows — creating branches, making commits, and opening pull requests.
 
 ## Getting Started
 
-Clone the repo and explore. More content comming soon.
+Clone the repo and explore. More content coming soon.
